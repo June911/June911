@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @June911
-- 👀 I’m interested in              ===> quantitative asset management and quantitative trading  
+- 👀 I’m interested in              ===> quantitative trading and cryptocurrencies
 - 🌱 I’m currently working on         ===> automatic trading bot on cryptocurrencies
 <!-- - 💞️ I’m looking to collaborate on  ===> Sentometrics -->
 - 📫 How to reach me                ===> jun.wang@hec.ca
