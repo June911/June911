@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @June911
 - 👀 I’m interested in              ===> quantitative trading, cryptocurrencies and sentiment analysis 
-- 🌱 I’m currently working on         ===> automatic trading bot on cryptocurrency exchanges and building uncertainty index from newspaper
-<!-- - 💞️ I’m looking to collaborate on  ===> Sentometrics -->
+- 🌱 I’m currently working on         ===> automatic trading bot and NFTs 
 - 📫 How to reach me                ===> jun.wang@hec.ca
 
 <!---
